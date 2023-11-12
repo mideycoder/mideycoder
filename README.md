@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mideycoder
-- 👀 I’m interested in ...
+- 👀 I’m interested in Mobile Development & Design
 - 🌱 I’m currently learning flutter dev
 - 💞️ I’m looking to collaborate on uiux & flutter development
 - 📫 How to reach me ... via emai: mideydesmond@gmail.com
